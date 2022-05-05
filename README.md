@@ -24,6 +24,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
  - **Greedy (그리디)**
 	1. [큰수의 법칙, 2019 국가 교육기관 코딩 테스트](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/greedy/exercise.1.py)
 	2. [숫자 카드 게임, 2019 국가 교육기관 코딩 테스트](https://github.com/song-hee-1/algorithm-practice/tree/master/python-for-coding-test/greedy/exercise.2.py)
+	3. [1이 될 때까지. 2018 E 기업 알고리즘 대회](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/greedy/exercise.3.py)
 
 
  - **Implementation (구현)**
