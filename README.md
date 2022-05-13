@@ -16,7 +16,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
 	
  - **LV.2**
 	 - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
-
+	- [구명보트(Greedy)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/lifeboat.py)
 
 ## Python for coding test
 >References : 나동빈, 『이것이 취업을 위한 코딩 테스트다 with 파이썬』, 한빛미디어(2020) 
@@ -24,12 +24,18 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
  - **Greedy (그리디)**
 	1. [큰수의 법칙, 2019 국가 교육기관 코딩 테스트](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/greedy/exercise.1.py)
 	2. [숫자 카드 게임, 2019 국가 교육기관 코딩 테스트](https://github.com/song-hee-1/algorithm-practice/tree/master/python-for-coding-test/greedy/exercise.2.py)
-	3. [1이 될 때까지. 2018 E 기업 알고리즘 대회](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/greedy/exercise.3.py)
 
 
  - **Implementation (구현)**
+	1. [\[왕실의 나이트\]](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/implementation/exercise.1.py)
+	2. [\[게임 개발\]](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/implementation/exercise.2.py)
+
 
  - **DFS/BFS**
+	1. [\[음료수 얼려 먹기\]](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/DFS%26BFS/exercise.1.py)
+	2. [\[미로 탈출\]](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/DFS&BFS/exercise.2.py)
+
+
  - **Sorting (정렬)**
  - **Binary Search (이진탐색)**
   - **Dynamic Programming (다이나믹 프로그래밍)**
