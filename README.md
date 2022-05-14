@@ -37,8 +37,11 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
 
 
  - **Sorting (정렬)**
+    1. [\[위에서 아래로\]](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/sorting/exercise.1.py)
+   
+
  - **Binary Search (이진탐색)**
-  - **Dynamic Programming (다이나믹 프로그래밍)**
-  - **Shortest Path (최단 경로)**
-  - **Grapth Theory (그래프 이론)**
+ - **Dynamic Programming (다이나믹 프로그래밍)**
+ - **Shortest Path (최단 경로)**
+ - **Grapth Theory (그래프 이론)**
 
