@@ -27,18 +27,19 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
 
 
  - **Implementation (구현)**
-	1. [\[왕실의 나이트\]](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/implementation/exercise.1.py)
-	2. [\[게임 개발\]](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/implementation/exercise.2.py)
+	1. [왕실의 나이트](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/implementation/exercise.1.py)
+	2. [게임 개발](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/implementation/exercise.2.py)
 
 
  - **DFS/BFS**
-	1. [\[음료수 얼려 먹기\]](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/DFS%26BFS/exercise.1.py)
-	2. [\[미로 탈출\]](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/DFS&BFS/exercise.2.py)
+	1. [음료수 얼려 먹기](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/DFS%26BFS/exercise.1.py)
+	2. [미로 탈출](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/DFS&BFS/exercise.2.py)
 
 
  - **Sorting (정렬)**
-    1. [\[위에서 아래로\]](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/sorting/exercise.1.py)
-   
+    1. [위에서 아래로, T 기업 코딩 테스트](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/sorting/exercise.1.py)
+    2. [성적이 낮은 순서로 학생 출력하기, D 기업 프로그래밍 콘테스트 예선](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/sorting/exercise.2.py)
+
 
  - **Binary Search (이진탐색)**
  - **Dynamic Programming (다이나믹 프로그래밍)**
