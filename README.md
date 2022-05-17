@@ -39,6 +39,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
  - **Sorting (정렬)**
     1. [위에서 아래로, T 기업 코딩 테스트](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/sorting/exercise.1.py)
     2. [성적이 낮은 순서로 학생 출력하기, D 기업 프로그래밍 콘테스트 예선](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/sorting/exercise.2.py)
+    3. [두 배열의 원소 교체, 국제 알고리즘 대회](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/sorting/exercise.3.py)
 
 
  - **Binary Search (이진탐색)**
