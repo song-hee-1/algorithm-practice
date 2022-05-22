@@ -43,7 +43,12 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
 
 
  - **Binary Search (이진탐색)**
+    1. [부품 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/binary-search/exercise.1.py)
+    2. [떡볶이 떡 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/binary-search/exercise.2.py)
+
+ 
  - **Dynamic Programming (다이나믹 프로그래밍)**
+
  - **Shortest Path (최단 경로)**
  - **Grapth Theory (그래프 이론)**
 
