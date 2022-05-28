@@ -8,12 +8,12 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
 >References : https://programmers.co.kr
 
  - **LV.1**
-	 - [K번째 수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/kth-number.py)
-	-  [문자열을 정수로 바꾸기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/string_to_integer.py)
-	-  [체육복](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/pe_clothes.py)
-	-  [문자열 다루기 기본](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/string_handling.py)
-	- [약수의 합](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/sum_of_divisors.py)
-	
+     - [K번째 수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/kth-number.py)
+     - [문자열을 정수로 바꾸기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/string_to_integer.py)
+     - [체육복](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/pe_clothes.py)
+     - [문자열 다루기 기본](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/string_handling.py)
+     - [약수의 합](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/sum_of_divisors.py)
+     - [문자열 내 p와 y의 개수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/number_of_p_and_y_in_string.py)	
  - **LV.2**
 	 - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
 	- [구명보트(Greedy)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/lifeboat.py)
