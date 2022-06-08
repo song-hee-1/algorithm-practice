@@ -14,9 +14,12 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [문자열 다루기 기본](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/string_handling.py)
      - [약수의 합](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/sum_of_divisors.py)
      - [문자열 내 p와 y의 개수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/number_of_p_and_y_in_string.py)	
+     - [자릿수 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_digit.py) 
+
+
  - **LV.2**
-	 - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
-	- [구명보트(Greedy)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/lifeboat.py)
+     - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
+    - [구명보트(Greedy)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/lifeboat.py)
 
 ## Python for coding test
 >References : 나동빈, 『이것이 취업을 위한 코딩 테스트다 with 파이썬』, 한빛미디어(2020) 
