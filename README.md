@@ -14,8 +14,9 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [문자열 다루기 기본](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/string_handling.py)
      - [약수의 합](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/sum_of_divisors.py)
      - [문자열 내 p와 y의 개수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/number_of_p_and_y_in_string.py)	
-     - [자릿수 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_digit.py) 
-
+     - [자릿수 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_digit.py)
+     - [두 개 뽑아서 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/take_two_and_add.py)
+     - [정수 내림차순으로 배치하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/sort_int_to_reverse.py)
 
  - **LV.2**
      - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
