@@ -18,10 +18,16 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [두 개 뽑아서 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/take_two_and_add.py)
      - [정수 내림차순으로 배치하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/sort_int_to_reverse.py)
 
+
+
  - **LV.2**
      - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
      - [구명보트(Greedy)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/lifeboat.py)
      - [가장 큰 수(Sorting)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/the_biggest_number.py)
+     - [JadenCase 문자열 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/create_jadencase_string.py)
+     - [N개의 최소공배수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/n_least_common_multiples.py)
+
+     - [최댓값과 최솟값](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/maximum_and_minimum_number.py)
 ## Python for coding test
 >References : 나동빈, 『이것이 취업을 위한 코딩 테스트다 with 파이썬』, 한빛미디어(2020) 
  
