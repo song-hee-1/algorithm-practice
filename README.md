@@ -27,6 +27,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [N개의 최소공배수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/n_least_common_multiples.py)
      - [최댓값과 최솟값](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/maximum_and_minimum_number.py)
      - [모음 사전](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/vowls_dict.py)
+     - [조이스틱](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/joystick.py)
 ## Python for coding test
 >References : 나동빈, 『이것이 취업을 위한 코딩 테스트다 with 파이썬』, 한빛미디어(2020) 
  
