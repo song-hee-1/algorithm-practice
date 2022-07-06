@@ -17,8 +17,9 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [자릿수 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_digit.py)
      - [두 개 뽑아서 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/take_two_and_add.py)
      - [정수 내림차순으로 배치하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/sort_int_to_reverse.py)
-
+     - [숫자 문자열과 영단어](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/numeric_strings_and_english_words.py)
     
+
  - **LV.2**
      - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
      - [구명보트(Greedy)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/lifeboat.py)
