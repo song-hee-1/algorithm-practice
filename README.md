@@ -68,5 +68,5 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
 >References : 박상길, 『파이썬 알고리즘 인터뷰』, 책만(2020)
    
  - **Ch. 6 String Manipulation (문자열조작)**
-   - [유효한 팰린드롬 (leetcode #125.Valid Palindrome)](%28https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/125.valid_palindrome.py)
-  
+   - [유효한 팰린드롬 (leetcode #125.Valid Palindrome)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/125.valid_palindrome.py)
+   - [문자열 뒤집기 (leetcode #344. Reverse String)]((https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/344.reverse_string.py))
