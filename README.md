@@ -69,4 +69,5 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
    
  - **Ch. 6 String Manipulation (문자열조작)**
    - [유효한 팰린드롬 (leetcode #125.Valid Palindrome)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/125.valid_palindrome.py)
-   - [문자열 뒤집기 (leetcode #344. Reverse String)]((https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/344.reverse_string.py))
+   - [문자열 뒤집기 (leetcode #344.Reverse String)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/344.reverse_string.py)
+   - [로그 파일 재정렬 (leetcode #937.Reorder Log Files)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/937.reorder_log_files.py)
