@@ -74,3 +74,8 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
    - [가장 흔한 단어 (leetcode #819.Most Commond Wird)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/819.most_common_word.py)
    - [그룹 애너그램 (leetcode #49.Group Anagrams)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/49.group-anagrams.py)
    - [가장 긴 팰린드롬 부분 문자열 (leetcode #5.Longest Palindrome Substring)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/5.longest-palindromic-substring.py)
+   
+
+ - **Ch. 7 Array (배열)**
+     - [두 수의 합 (leetcode #1.Two Sum)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/1.two_sum.py)
+ 
