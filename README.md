@@ -30,6 +30,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [모음 사전](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/vowls_dict.py)
      - [조이스틱](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/joystick.py)
      - [124나라의 숫자](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/number_of_124_country.py)
+     - [다음 큰 숫자](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/next_big_number.py)
 ## Python for coding test  
 >References : 나동빈, 『이것이 취업을 위한 코딩 테스트다 with 파이썬』, 한빛미디어(2020)   
    
