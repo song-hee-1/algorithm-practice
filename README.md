@@ -32,6 +32,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [124나라의 숫자](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/number_of_124_country.py)
      - [다음 큰 숫자](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/next_big_number.py)
      - [숫자의 표현](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/representation_of_numbers.py)
+     - [소수 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/find_decimals.py)
 ## Python for coding test  
 >References : 나동빈, 『이것이 취업을 위한 코딩 테스트다 with 파이썬』, 한빛미디어(2020)   
    
