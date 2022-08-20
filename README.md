@@ -82,4 +82,4 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
  - **Ch. 7 Array (배열)**
      - [두 수의 합 (leetcode #1.Two Sum)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/1.two_sum.py)
      - [빗물 트래핑(leetcode #42.Trapping Rain Water)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/42.trapping-rain-water.py)
-   
+     - [세 수의 합(leetcode #15.3Sum)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/15.3sum.py) 
