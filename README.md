@@ -86,3 +86,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [배열 파티션I(leetcode #561.Array Partition)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/561.array-partition-i.py)
      - [자신을 제외한 배열의 곱(leetcode #238.Product of Array Except Self)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/238.product-of-array-except-self.py)
      - [주식을 사고팔기 가장 좋은 시점(leetcode #121.Best Time to Buy and Sell Stock)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/121.best-time-to-buy-and-sell-stock.py)
+  
+
+ - **Ch. 8 Linked List (연결 리스트)** 
+   - [팰린드롬 연결 리스트 (leetcode #234.Palindrome Linked List)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/234.palindrome-linked-list.py)
