@@ -91,3 +91,4 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
  - **Ch. 8 Linked List (연결 리스트)** 
    - [팰린드롬 연결 리스트 (leetcode #234.Palindrome Linked List)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/234.palindrome-linked-list.py)
    - [두 정렬 리스트의 병합 (leetcode #21.Merge Two Sorted Lists)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/21.merge-two-sorted-lists.py)
+   - [역순 연결 리스트 (leetcode #206.Reverse Linked List)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/206.reverse-linked-list.py)
