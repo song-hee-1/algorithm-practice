@@ -1,8 +1,18 @@
-# Algorithm - Practice  
-  
-This repository contain Python based examples of many popular algorithms.    
+# Algorithm Practice
+
+This repository contain Python based examples of many popular algorithms. 
+
 for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)  
-  
+
+
+효율적으로 파이썬 문법을 익히기 위하여 알고리즘 공부를 시작하였습니다.
+
+많은 문제를 단시간에 풀기보다는, 여러 방법에 대해 **탐구**하고 부족한 부분을 **보완**하는 것을 목표로 삼고 있습니다. 
+
+이해가 되지 않거나 어려웠던 부분은 [기술 블로그](https://medium.com/@heeee) 에 글을 남기고 있습니다.
+
+
+</br>
   
 ## Programmers  
 >References : https://programmers.co.kr  
@@ -19,6 +29,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [정수 내림차순으로 배치하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/sort_int_to_reverse.py)
      - [숫자 문자열과 영단어](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/numeric_strings_and_english_words.py)
      - [소수 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/make_prime_number.py)  
+     - [자연수 뒤집어 배열로 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/reverse_natural_number_to_array.py)
 
  - **LV.2**
      - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
@@ -33,6 +44,9 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [다음 큰 숫자](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/next_big_number.py)
      - [숫자의 표현](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/representation_of_numbers.py)
      - [소수 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/find_decimals.py)
+
+</br>
+
 ## Python for coding test  
 >References : 나동빈, 『이것이 취업을 위한 코딩 테스트다 with 파이썬』, 한빛미디어(2020)   
    
@@ -66,6 +80,8 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
   
  - **Shortest Path (최단 경로)**  
  - **Grapth Theory (그래프 이론)**
+
+</br>
 
 ## Algorithm Interview
 >References : 박상길, 『파이썬 알고리즘 인터뷰』, 책만(2020)
