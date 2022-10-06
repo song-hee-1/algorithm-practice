@@ -30,7 +30,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [숫자 문자열과 영단어](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/numeric_strings_and_english_words.py)
      - [소수 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/make_prime_number.py)  
      - [자연수 뒤집어 배열로 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/reverse_natural_number_to_array.py)
-
+     - [하샤드 수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/harshad_number.py)
  - **LV.2**
      - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
      - [구명보트(Greedy)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/lifeboat.py)
