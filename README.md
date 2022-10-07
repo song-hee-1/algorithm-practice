@@ -31,6 +31,10 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [소수 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/make_prime_number.py)  
      - [자연수 뒤집어 배열로 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/reverse_natural_number_to_array.py)
      - [하샤드 수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/harshad_number.py)
+     - [나머지가 1이 되는 수 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/find_a_number_whose_remainder_is_1.py)
+     
+</br>
+
  - **LV.2**
      - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
      - [구명보트(Greedy)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/lifeboat.py)
