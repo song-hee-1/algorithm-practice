@@ -33,6 +33,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [하샤드 수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/harshad_number.py)
      - [나머지가 1이 되는 수 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/find_a_number_whose_remainder_is_1.py)
      - [콜라츠 추측](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/collatz_conjectur.py)
+     - [제일 작은 수 제거하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/remove_the_smallest_number.py)
 
      </br>
 
