@@ -34,8 +34,9 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [나머지가 1이 되는 수 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/find_a_number_whose_remainder_is_1.py)
      - [콜라츠 추측](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/collatz_conjectur.py)
      - [제일 작은 수 제거하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/remove_the_smallest_number.py)
-      - [음양 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_negative_and_positive_numbers.py)
-
+     - [음양 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_negative_and_positive_numbers.py)
+     - [x만큼 간격이 있는 n개의 숫자](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/n_numbers_spaced_by_x.py)
+     
      </br>
 
  - **LV.2**
