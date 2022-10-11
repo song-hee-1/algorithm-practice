@@ -36,7 +36,8 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [제일 작은 수 제거하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/remove_the_smallest_number.py)
      - [음양 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_negative_and_positive_numbers.py)
      - [x만큼 간격이 있는 n개의 숫자](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/n_numbers_spaced_by_x.py)
-     
+     - [없는 숫자 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_missing_numbers.py)
+      
      </br>
 
  - **LV.2**
