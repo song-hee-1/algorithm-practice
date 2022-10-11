@@ -124,4 +124,5 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
 
 
  - **Ch. 9 Stack, Queue (스택, 큐)**
-   - [유효한 괄호 (leetcode #20.Valid Parentheses)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/20.valid_parentheses.py)
+   - [유효한 괄호 (leetcode #20.Valid Parentheses)](https://github.com/song-hee-1/algorithm-practice/blob/master/20.valid_parentheses.py)
+   - [중복 문자 제거 (leetcode #316. Remove Duplicate Letters)](https://github.com/song-hee-1/algorithm-practice/blob/master/316.remove_duplicate_letters.py)
