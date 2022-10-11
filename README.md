@@ -37,8 +37,8 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [음양 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_negative_and_positive_numbers.py)
      - [x만큼 간격이 있는 n개의 숫자](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/n_numbers_spaced_by_x.py)
      - [없는 숫자 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_missing_numbers.py)
-      
-     </br>
+   
+</br>
 
  - **LV.2**
      - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
@@ -121,3 +121,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
    - [페어의 노드 스왑(leetcode #24.Swap Nodes in Pairs)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/24.swap-nodes-in-pairs.py)
    - [홀짝 연결 리스트(leetcode #328.Odd Even Linked List)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/328.odd-even-linked-list.py)
    - [역순 연결 리스트II(leetcode #92.Reverse Linked List)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/92.reverse-linked-list2.py)
+
+
+ - **Ch. 9 Stack, Queue (스택, 큐)**
+   - [유효한 괄호 (leetcode #20.Valid Parentheses)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/20.valid_parentheses.py)
