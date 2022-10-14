@@ -38,6 +38,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [x만큼 간격이 있는 n개의 숫자](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/n_numbers_spaced_by_x.py)
      - [없는 숫자 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_missing_numbers.py)
      - [약수의 갯수와 덧셈](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/number_and_addition_of_factors.py)
+     - [부족한 금액 계산하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/calculate_the_shortfall.py)
 
 </br>
 
@@ -128,4 +129,4 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
    - [유효한 괄호 (leetcode #20.Valid Parentheses)](https://github.com/song-hee-1/algorithm-practice/blob/master/20.valid_parentheses.py)
    - [중복 문자 제거 (leetcode #316.Remove Duplicate Letters)](https://github.com/song-hee-1/algorithm-practice/blob/master/316.remove_duplicate_letters.py)
    - [일일온도 (leetcode #739.Daily Temperatures)](https://github.com/song-hee-1/algorithm-practice/blob/master/739.daily-temperatures.py)
- 
+   - [큐를 이용한 스택 구현 (leetcode #225.Implement Stack using Queues)](https://github.com/song-hee-1/algorithm-practice/blob/master/225.implement-stack-using-queues.py)
