@@ -55,7 +55,8 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [다음 큰 숫자](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/next_big_number.py)
      - [숫자의 표현](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/representation_of_numbers.py)
      - [소수 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/find_decimals.py)
-
+     - [최솟값 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/create_a_minimum.py)
+ 
 </br>
 
 ## Python for coding test  
