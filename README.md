@@ -39,8 +39,9 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [없는 숫자 더하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/add_missing_numbers.py)
      - [약수의 갯수와 덧셈](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/number_and_addition_of_factors.py)
      - [부족한 금액 계산하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/calculate_the_shortfall.py)
-
-</br>
+     - [최대공약수와 최소공배수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/greatest_common_factor_and_least_common_multiple.py)
+     
+   </br>
 
  - **LV.2**
      - [전화번호부 목록](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/list_of_phone_book.py)
