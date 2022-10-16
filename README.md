@@ -57,6 +57,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [숫자의 표현](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/representation_of_numbers.py)
      - [소수 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/find_decimals.py)
      - [최솟값 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/create_a_minimum.py)
+     - [올바른 괄호](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/correct_parenthesis.py)
  
 </br>
 
