@@ -90,7 +90,11 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
     - [떡볶이 떡 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/binary-search/exercise.2.py)  
   
    
- - **Dynamic Programming (다이나믹 프로그래밍)**  
+ - **Dynamic Programming (다이나믹 프로그래밍)** 
+     - [1로 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/dynamic_programming/exercise.1.py)  
+     - [개미 전사](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/dynamic_programming/exercise.2.py)  
+     - [바닥 공사](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/dynamic_programming/exercise.3.py)  
+     - [효율적인 화폐 구성](https://github.com/song-hee-1/algorithm-practice/blob/master/python-for-coding-test/dynamic_programming/exercise.4.py)  
   
  - **Shortest Path (최단 경로)**  
  - **Grapth Theory (그래프 이론)**
