@@ -138,4 +138,5 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
    - [일일온도 (leetcode #739.Daily Temperatures)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/739.daily-temperatures.py)
    - [큐를 이용한 스택 구현 (leetcode #225.Implement Stack using Queues)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/225.implement_stack_using_queues.py)
    - [스택을 이용한 큐 구현 (leetcode #232.Implement Queue using Stacks)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/232.implement_queue_using_stacks.py)
+   - [원형 큐 디자인 (leetcode #622.Design Circular Queue)](https://github.com/song-hee-1/algorithm-practice/blob/master/algorithm-interview/622.design_circular_queue.py) 
  
