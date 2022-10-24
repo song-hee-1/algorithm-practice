@@ -59,7 +59,9 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [최솟값 만들기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/create_a_minimum.py)
      - [올바른 괄호](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/correct_parenthesis.py)
      - [이진 변환 반복하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/repeat_binary_transformation.py) 
-</br>
+     - [피보나치수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/fibonacci_number.py)
+    
+     </br>
 
 ## Python for coding test  
 >References : 나동빈, 『이것이 취업을 위한 코딩 테스트다 with 파이썬』, 한빛미디어(2020)   
