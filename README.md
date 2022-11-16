@@ -46,7 +46,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [삼총사](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/three_musketeers.py)
      - [3진법 뒤집기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/ternary_flip.py)
      - [소수 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/find_decimals_len.py)   
-
+     - [내적](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/inner_product.py)
      </br>
 
  - **LV.2**
