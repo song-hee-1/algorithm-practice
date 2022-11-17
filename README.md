@@ -47,6 +47,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [3진법 뒤집기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/ternary_flip.py)
      - [소수 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/find_decimals_len.py)   
      - [내적](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/inner_product.py)
+     - [행렬의 덧셈](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/matrix_addition.py)
      </br>
 
  - **LV.2**
