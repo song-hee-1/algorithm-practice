@@ -48,6 +48,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [소수 찾기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/find_decimals_len.py)   
      - [내적](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/inner_product.py)
      - [행렬의 덧셈](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/matrix_addition.py)
+     - [옹알이(1)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/babbling.py)
      </br>
 
  - **LV.2**
@@ -68,7 +69,8 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [이진 변환 반복하기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/repeat_binary_transformation.py) 
      - [피보나치수](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/fibonacci_number.py)
      - [영어 끝말잇기](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/english_word_chain.py)
-   
+     - [기능개발](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/develop_function.py)      
+ 
      </br>
 
 ## Python for coding test  
