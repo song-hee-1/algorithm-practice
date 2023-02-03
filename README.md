@@ -49,6 +49,7 @@ for a more detailed explanation in [my Tech Blog](https://medium.com/@heeee)
      - [내적](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/inner_product.py)
      - [행렬의 덧셈](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/matrix_addition.py)
      - [옹알이(1)](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/babbling.py)
+     - [작은 부분문자열](https://github.com/song-hee-1/algorithm-practice/blob/master/programmers/small_substring.py)
      </br>
 
  - **LV.2**
